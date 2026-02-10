@@ -23,8 +23,8 @@ data = data.fillna(0)  # Missing values fill
 data = data.select_dtypes(include=['int64', 'float64'])
 
 # STEP 5: Features and Target
-X = data.drop("SalePrice", axis=1)
-y = data["SalePrice"]
+X = data.drop("MEDV", axis=1)
+y = data["MEDV"]
 
 # STEP 6: Train Test Split
 X_train, X_test, y_train, y_test = train_test_split(
