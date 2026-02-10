@@ -17,8 +17,6 @@ Average Prediction Error ≈ 3.18
 
 ## 📁 Files
 - `house_price_model.py` → Main ML model code
-## 📁 Files
-- `house_price_model.py` → Main ML model code
 
 
 # STEP 1: Libraries Import
