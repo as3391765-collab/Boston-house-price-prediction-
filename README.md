@@ -1,21 +1,19 @@
-# Boston House Price Prediction
+# 🏠 Boston House Price Prediction
 
-This repository contains code for predicting house prices in Boston.
+Machine Learning project to predict house prices using the Boston Housing dataset.
 
-## Code
+## 🔧 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
 
-The code is available in the file [code.py](code.py).
+## 🤖 Model Used
+Linear Regression
 
-## Description
+## 📊 Result
+Average Prediction Error ≈ 3.18
 
-This project uses various machine learning algorithms to make predictions based on historical data.
-
-## Requirements
-
-- Python 3.x
-- Libraries: pandas, numpy, scikit-learn, etc.
-
-## How to Use
-
-1. Clone the repository.
-2. Run `code.py` to execute the prediction algorithms.
+## 📁 Files
+- `house_price_model.py` → Main ML model code
